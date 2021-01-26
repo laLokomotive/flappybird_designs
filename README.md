@@ -1,2 +1,2 @@
-namederbird(bennenung)
-               (Flappybird_bennung_0,1,2)
+namefrombird(calling)
+               (Flappybird_calling_0,1,2)
